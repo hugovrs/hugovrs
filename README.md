@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2025<br>📚 Estudante de desenvolvimento de sistemas</p>
+<p align="left">✨ Criando bugs desde 2025<br>📚 Estudante de desenvolvimento de sistemas<br>🎲Fato curioso: Sou músico</p>
 
 ###
 
