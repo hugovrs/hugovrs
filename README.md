@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2025<br>📚 Estudante de desenvolvimento de sistemas<br>🎲 Fato curioso: Sou músico</p>
+<p align="left">✨ Criando bugs desde 2025<br>📚 Estudante de desenvolvimento de sistemas<br>🎲 Fato curioso: sou músico</p>
 
 ###
 
-<h2 align="left">💻 Minhas stacks</h2>
+<h2 align="left">💻 Linguagens que uso</h2>
 
 ###
 
@@ -28,7 +28,8 @@
 ###
 
 <div align="left">
-  <a href="https://discordapp.com/users/1292154546277056533">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
+
+###
