@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">💻 Linguagens que uso</h2>
+<h2 align="left">💻 Minhas stacks</h2>
 
 ###
 
