@@ -29,15 +29,3 @@
 </div>
 
 ###
-
-<h2 align="left">📱Minhas redes</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-</div>
-
-###
