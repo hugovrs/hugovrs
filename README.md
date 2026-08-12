@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">Minhas redes 📱</h2>
+<h2 align="left">📱Minhas redes</h2>
 
 ###
 
