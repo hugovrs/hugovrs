@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Criando bugs desde 2025
+✨ Criando bugs desde 2026
 <br>
 📚 Estudante de Desenvolvimento de Sistemas
 <br>
